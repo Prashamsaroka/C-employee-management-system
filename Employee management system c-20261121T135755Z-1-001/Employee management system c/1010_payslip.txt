@@ -1,0 +1,17 @@
+=================== PAYSLIP ===================
+Employee Name   : Ramesh Pandey
+ID              : 1010
+Age             : 33
+Gender          : Male
+Department      : IT
+Post            : Lead Developer
+Contact         : +977-9817268190
+Performance     : Good
+-----------------------------------------------
+Basic Salary    : 84000.00
+Allowance       : 24000.00
+Deductions      : 12000.00
+-----------------------------------------------
+Total Salary    : 120000.00
+Net Pay         : 96000.00
+================================================

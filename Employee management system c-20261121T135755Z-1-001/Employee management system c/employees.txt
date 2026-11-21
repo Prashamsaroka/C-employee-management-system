@@ -1,0 +1,47 @@
+1001|Venom Raja|45|Female|IT|Manager|+977-9845783215|800000.00|Excellent
+1002|Heman Baja|45|Male|IT|Manager|+977-9878154872|80000.00|Excellent
+1003|Sita Sharma|38|Female|HR|Executive|+977-9845456789|60000.00|Good
+1004|Ravi Joshi|42|Male|Finance|Manager|+977-9834748293|100000.00|Excellent
+1005|Gita Gurung|29|Female|Marketing|Assistant|+977-9812345678|45000.00|Good
+1006|Hari Thapa|35|Male|IT|Technician|+977-9827393045|35000.00|Average
+1007|Bina Rai|40|Female|Sales|Manager|+977-9847432547|120000.00|Excellent
+1008|Anil Kumar|50|Male|Finance|Director|+977-9876945786|200000.00|Good
+1009|Deepa Rathi|29|Female|HR|Assistant|+977-9837461823|28000.00|Average
+1010|Ramesh Pandey|33|Male|IT|Lead Developer|+977-9817268190|120000.00|Good
+1011|Manju Singh|28|Female|Marketing|Manager|+977-9820473651|95000.00|Excellent
+1012|Shyam Bahadur|45|Male|IT|Administrator|+977-9845693847|135000.00|Good
+1013|Aarti Yadav|37|Female|HR|Manager|+977-9845503902|110000.00|Excellent
+1014|Dipendra Gurung|34|Male|IT|Technician|+977-9835628475|42000.00|Good
+1015|Pramila Khatri|30|Female|Sales|Assistant|+977-9813467892|45000.00|Good
+1016|Sanjay Kumar|39|Male|Marketing|Executive|+977-9846802547|85000.00|Good
+1017|Anju Rathi|41|Female|Finance|Manager|+977-9837282547|155000.00|Excellent
+1018|Rohit Magar|32|Male|HR|Executive|+977-9819238475|67000.00|Good
+1019|Suman Pradhan|50|Male|IT|Lead Developer|+977-9827583842|190000.00|Excellent
+1020|Rekha Pokhrel|36|Female|Marketing|Executive|+977-9817248309|75000.00|Good
+1021|Rajesh Rai|28|Male|Sales|Assistant|+977-9845620384|43000.00|Average
+1022|Neelam Sharma|41|Female|Finance|Executive|+977-9846327583|115000.00|Excellent
+1023|Krishna Pandey|43|Male|HR|Manager|+977-9835748392|85000.00|Good
+1024|Sunita Rawat|29|Female|Marketing|Assistant|+977-9812735649|47000.00|Good
+1025|Jeevan Gurung|30|Male|IT|Developer|+977-9847456721|78000.00|Good
+1026|Laxmi Pokhrel|33|Female|HR|Executive|+977-9837265301|50000.00|Good
+1027|Kamal Singh|38|Male|Finance|Manager|+977-9845267392|95000.00|Good
+1028|Sangita Sharma|27|Female|Sales|Executive|+977-9819263842|40000.00|Good
+1029|Rohit Baral|34|Male|IT|Administrator|+977-9845867329|90000.00|Excellent
+1030|Nira Bajracharya|42|Female|HR|Manager|+977-9818367459|135000.00|Good
+1031|Manoj Thapa|31|Male|Marketing|Assistant|+977-9836394821|52000.00|Average
+1032|Pooja Yadav|30|Female|Finance|Assistant|+977-9817265948|60000.00|Good
+1033|Suresh Rawal|40|Male|Sales|Manager|+977-9845208363|105000.00|Excellent
+1034|Kamala Rathi|29|Female|Marketing|Executive|+977-9827584631|55000.00|Good
+1035|Binod Acharya|36|Male|IT|Lead Developer|+977-9836720842|100000.00|Good
+1036|Ranjita Thapa|34|Female|Sales|Assistant|+977-9846498325|43000.00|Good
+1037|Keshab Bhandari|40|Male|Finance|Executive|+977-9827341963|120000.00|Excellent
+1038|Maya Rai|31|Female|IT|Technician|+977-9815382754|40000.00|Good
+1039|Arjun Sharma|32|Male|HR|Manager|+977-9847326590|80000.00|Good
+1040|Nisha Khatri|27|Female|Sales|Manager|+977-9837428175|95000.00|Excellent
+1041|Deepak Karki|45|Male|IT|Manager|+977-9846378215|115000.00|Good
+1042|Suman Khatri|30|Male|HR|Assistant|+977-9817362589|35000.00|Average
+1043|Madhavi Rathi|36|Female|Marketing|Manager|+977-9845638290|135000.00|Good
+1044|Govinda Bhattarai|50|Male|Finance|Director|+977-9826439021|200000.00|Excellent
+1045|Preeti Gurung|31|Female|HR|Executive|+977-9817384923|68000.00|Good
+1046|Bishal Pandey|41|Male|Sales|Executive|+977-9845763841|72000.00|Good
+1047|Alina Joshi|29|Female|IT|Manager|+977-9817356892|95000.00|Excellent
